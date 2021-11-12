@@ -14,8 +14,8 @@
 </h1> -->
 
 - [Sobre](#-sobre)
-- [Tecnologias utilizada](#-tecnologias-utilizadas)
-- [Onde encontrar o curso](#-onde-encontrar-o-curso)
+- [Tecnologia utilizada](#-tecnologias-utilizadas)
+- [Onde encontrar o curso?](#-onde-encontrar-o-curso)
 
 ---
 
@@ -27,12 +27,12 @@ O projeto **Tutorial de C++ para iniciantes** é um curso, que foi ministrado pe
 
 ## 📑 Linguagem utilizada:
 
-- C++
+- [C++](https://www.cplusplus.com/)
 
 ---
 
 ## 📑 Onde encontrar o curso:
 
-- [Youtube](#-https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+- [Youtube](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 
 <p align="center"> Desenvolvido por Pedro Craveiro 🌐</p>
