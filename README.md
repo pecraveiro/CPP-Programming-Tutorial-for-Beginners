@@ -1,20 +1,20 @@
 <!-- Colocar uma logo no projeto -->
 <!-- HTML -->
 <h1 align="center">
-    <img src="https://ik.imagekit.io/qrxepd99cvi/logo-ejec-readme-basico_ZaunHjLcF.jpg"> <!-- URL da imagen -->
+    <img src="https://ik.imagekit.io/elankfmjpxmn/c___N3MWZ1Z_X.png?updatedAt=1636675973041"> <!-- URL da imagen -->
 </h1>
-
-<!-- Fazer uma aprensentação, pode ser um gif/video, mostrando como o projeto funciona-->
-<h1>
-    <img src="Apresentação/rota-certa.gif">
-</h1>
-
 
 <h3 align="center">
-    <a href="https://www.gruporotacerta.com.br/">Acessar o site</a>
+    <a href="https://www.youtube.com/watch?v=vLnPwxZdW4Y">Acessar o curso</a>
 </h3>
 
 ## Indice
+
+<!-- Logo C++ Animada-->
+<h1>
+    <img src="photo/c++.gif">
+</h1>
+
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
@@ -22,16 +22,13 @@
 ---
 ## Sobre 📑
 
-O projeto **Grupo Rota Certa** é um site, que foi programado pela **EJEC**, que é uma Empresa Júnior de Engenharia de Computação da Universidade Federal de Santa Catarina. 
+O projeto **Tutorial de C++ para iniciantes** é um curso, que foi ministrado pelo **Mike Dane**, membro da **Giraffe Academy**. 
 
 --- <!-- Serve para colocar uma linha na formatação -->
 
 ## Tenologias utilizadas 📑
-<!-- - [Site](link do site)  por ex: [EJEC](https://ejec.ufsc.br)-->
-- HTML
-- CSS
-- JavaScript
-
+<!-- [Site](link do site)  por ex: [EJEC](https://ejec.ufsc.br)-->
+- C++
 ---
 
 ## Como baixar o projeto 📑
@@ -39,7 +36,7 @@ O projeto **Grupo Rota Certa** é um site, que foi programado pela **EJEC**, que
 ```bash
 
     # Clonar o repositório
-    $ git clone htpps://github.com/pecraveiro/rocketmusic
+    $ git clone https://github.com/pecraveiro/CPP-Tutorial-for-Beginners-Full-Course
 
     # Entrar no diretório
     $ cd rocketmusic
