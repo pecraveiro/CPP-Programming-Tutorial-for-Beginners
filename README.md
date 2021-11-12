@@ -1,37 +1,38 @@
 <!-- Colocar uma logo no projeto -->
 <!-- HTML -->
 <h1 align="center">
-    <img src="https://ik.imagekit.io/elankfmjpxmn/c___N3MWZ1Z_X.png?updatedAt=1636675973041"> <!-- URL da imagen -->
+    <img src="https://ik.imagekit.io/elankfmjpxmn/c___ecrchArTyqG8.png?updatedAt=1636677265022"> <!-- URL da imagen -->
 </h1>
 
 <h3 align="center">
     <a href="https://www.youtube.com/watch?v=vLnPwxZdW4Y">Acessar o curso</a>
 </h3>
 
-## Indice
+## Índice
 
-<!-- Logo C++ Animada-->
+<!-- Logo C++ Animada 
 <h1>
     <img src="photo/c++.gif">
-</h1>
+</h1> -->
 
 - [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Tecnologias utilizada](#-tecnologias-utilizadas)
+- [Onde encontrar o curso](#-onde-encontrar-o-curso)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
 ---
-## Sobre 📑
+## Sobre: 📑
 
 O projeto **Tutorial de C++ para iniciantes** é um curso, que foi ministrado pelo **Mike Dane**, membro da **Giraffe Academy**. 
 
---- <!-- Serve para colocar uma linha na formatação -->
+---
 
-## Tenologias utilizadas 📑
-<!-- [Site](link do site)  por ex: [EJEC](https://ejec.ufsc.br)-->
+## Linguagem utilizada: 📑
+
 - C++
 ---
 
-## Como baixar o projeto 📑
+## Como baixar o projeto: 📑
 
 ```bash
 
@@ -49,5 +50,4 @@ O projeto **Tutorial de C++ para iniciantes** é um curso, que foi ministrado pe
 ```
 
 ---
-
-Desenvolvido por Pedro Craveiro 🌐
+<p align="center"> Desenvolvido por Pedro Craveiro 🌐</p>
