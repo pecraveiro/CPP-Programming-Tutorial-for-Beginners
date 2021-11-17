@@ -43,7 +43,7 @@ int main()
 
     string phrase3 = "Craveiro's House";
     string phraseSUB;
-    phraseSUB = phrase3.substr(0, 4);
+    phraseSUB = phrase3.substr(0, 4); // Mostrará quais letras estão no campo 0 até o 4.
     
     cout << phraseSUB << endl;
 
