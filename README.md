@@ -4,8 +4,6 @@
     <img src="https://ik.imagekit.io/elankfmjpxmn/c___ecrchArTyqG8.png?updatedAt=1636677265022"> <!-- URL da imagen -->
 </h1>
 
----
-
 ## 💡 Índice
 
 <!-- Logo C++ Animada 
@@ -14,22 +12,16 @@
 </h1> -->
 
 - [Sobre](#-sobre)
-- [Tecnologia utilizada](#-tecnologias-utilizadas)
+- [Linguagem utilizada](#-Linguagem-utilizada)
 - [Onde encontrar o curso?](#-onde-encontrar-o-curso)
-
----
 
 ## 📑 Sobre: 
 
 O projeto **Tutorial de C++ para iniciantes** é um curso, que foi ministrado pelo **Mike Dane**, membro da **Giraffe Academy**. 
 
----
-
 ## 📑 Linguagem utilizada:
 
 - [C++](https://www.cplusplus.com/)
-
----
 
 ## 📑 Onde encontrar o curso:
 
