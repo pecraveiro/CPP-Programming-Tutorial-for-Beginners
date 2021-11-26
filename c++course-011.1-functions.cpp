@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void sayHi()
+void sayHello()
 {
     cout << "Hello User";
 
@@ -11,7 +11,7 @@ void sayHi()
 int main()
 {  
     
-    sayHi();
+    sayHello();
 
     return 0;
 }
