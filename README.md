@@ -27,4 +27,4 @@ O projeto **Tutorial de C++ para iniciantes** é um curso, que foi ministrado pe
 
 - [Youtube](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 
-<p align="center">Desenvolvido por <a href ="https://www.linkedin.com/in/pecraveiro/">Pedro Craveiro</a>🌐</p>
+<p align="center">Desenvolvido por <a href ="https://www.linkedin.com/in/pecraveiro/">Pedro Craveiro</a> 🌐</p>
