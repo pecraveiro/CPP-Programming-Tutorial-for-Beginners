@@ -2,8 +2,9 @@
 <!-- HTML -->
 <h1 align="center">
     <img src="https://ik.imagekit.io/elankfmjpxmn/c___ecrchArTyqG8.png?updatedAt=1636677265022"> <!-- URL da imagen -->
-    ![c++](https://user-images.githubusercontent.com/79882049/144554112-d509412f-3577-4674-957d-6af0cc0f480b.gif)
 </h1>
+
+![c++](https://user-images.githubusercontent.com/79882049/144554112-d509412f-3577-4674-957d-6af0cc0f480b.gif)
 
 ## 💡 Índice
 
