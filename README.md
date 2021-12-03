@@ -1,11 +1,8 @@
 <!-- Colocar uma logo no projeto -->
 <!-- HTML -->
 <h1 align="center">
-    <img src="https://ik.imagekit.io/elankfmjpxmn/c___ecrchArTyqG8.png?updatedAt=1636677265022"> <!-- URL da imagen -->
+    <img src="https://ik.imagekit.io/elankfmjpxmn/c___SSsFVVDKlrp.gif?updatedAt=1638512049165"> <!-- URL da imagen -->
 </h1>
-
-![c++gifgifgif](https://user-images.githubusercontent.com/79882049/144554442-ea998341-bb83-4c6b-8389-bc21729f4c34.gif)
-
 
 ## 💡 Índice
 
