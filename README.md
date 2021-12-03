@@ -4,7 +4,8 @@
     <img src="https://ik.imagekit.io/elankfmjpxmn/c___ecrchArTyqG8.png?updatedAt=1636677265022"> <!-- URL da imagen -->
 </h1>
 
-![c++](https://user-images.githubusercontent.com/79882049/144554112-d509412f-3577-4674-957d-6af0cc0f480b.gif)
+![c++gifgifgif](https://user-images.githubusercontent.com/79882049/144554442-ea998341-bb83-4c6b-8389-bc21729f4c34.gif)
+
 
 ## 💡 Índice
 
