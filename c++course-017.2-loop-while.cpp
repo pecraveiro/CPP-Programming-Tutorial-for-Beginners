@@ -5,10 +5,10 @@ int main()
 {
 	
 	int index = 6;
-	do {
+	do { // Executa o código
 		cout << index << endl; 
 		index++; 
-	} while (index <= 5);
+	} while (index <= 5); // Checando a condição
 	
 return 0;
 }
