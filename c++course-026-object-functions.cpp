@@ -23,9 +23,9 @@ class Student { // Class -  Template
 
 int main() // Função principal
 {
-    Student student1 "Jim", "Business", 2.4);
-    Student student2 "Pammela", "Art", 3.6);
-    Student student3 "Angelo", "Engineer", 2.9);
+    Student student1("Jim", "Business", 2.4);
+    Student student2("Pammela", "Art", 3.6);
+    Student student3("Angelo", "Engineer", 2.9);
     
     cout << student1.hasHonors();
 
