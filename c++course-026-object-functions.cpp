@@ -27,7 +27,11 @@ int main() // Função principal
     Student student2("Pammela", "Art", 3.6);
     Student student3("Angelo", "Engineer", 2.9);
     
-    cout << student1.hasHonors();
-
+    cout << student1.hasHonors() << endl; 
+    cout << student2.hasHonors() << endl; 
+    cout << student3.hasHonors() << endl; 
     return 0;
 }
+
+// 0 - means false
+// 1 - means true
