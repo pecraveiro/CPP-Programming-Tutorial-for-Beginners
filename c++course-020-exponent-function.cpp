@@ -11,7 +11,6 @@ int power(int baseNum, int powNum) {
         result = result * baseNum;
     }
         
-      
     return result;
 }
 
