@@ -24,7 +24,7 @@ int main()
     
     cout << "Nome do livro: "<< book1.title << endl;
     cout << "Autor: " << book1.author << endl;
-    cout << "Páginas: " << book1.pages << endl;
+    cout << "Páginas: " << book1.pages << endl << endl;
     
     Book book2;
     
