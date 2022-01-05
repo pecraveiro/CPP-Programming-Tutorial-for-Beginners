@@ -10,14 +10,14 @@ int main()
     string name = "Pedro";
     
     // Irá printar minha idade e onde essa variável está localizada na memória do computador
-    cout << age << endl;
-    cout << &age << endl;
+    cout << "AGE: "<< age << endl;
+    cout << "Memory Address: " << &age << endl << endl;
     
-    cout << gpa << endl;
-    cout << &gpa << endl;
+    cout << "GPA: " << gpa << endl;
+    cout << "Memory Address: " << &gpa << endl << endl;
     
-    cout << name << endl;
-    cout << &name << endl;
+    cout << "NAME: " << name << endl;
+    cout <<  "Memory Address: " << &name << endl;
     
     return 0;
 }
