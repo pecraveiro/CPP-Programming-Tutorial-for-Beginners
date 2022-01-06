@@ -3,7 +3,7 @@ using namespace std;
 
 class Chef {
     public:
-        void makeChicken () {
+        void makeChicken () { // Super class
             cout << "The Chef makes yummy chicken." << endl;
         }
         void makeSalad() {
@@ -15,7 +15,7 @@ class Chef {
 };
 
 // Herança
-class ItalianChef : public Chef{
+class ItalianChef : public Chef{ // Sub class
     public:
     void makePasta() {
         cout << "The chef makes pasta." << endl;
